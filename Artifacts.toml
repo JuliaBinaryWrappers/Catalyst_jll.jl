@@ -1,0 +1,66 @@
+[[Catalyst]]
+arch = "x86_64"
+git-tree-sha1 = "c3f80e482d3d9dfd410beb129334e5c8e944f490"
+os = "macos"
+
+    [[Catalyst.download]]
+    sha256 = "fd20ccc33165fda2b117893be6e223a782b9d4cc4dd6829909c39e38bf027dfb"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94f1b23583772006c9b871fa0236e19a28a968b0"
+libc = "glibc"
+os = "linux"
+
+    [[Catalyst.download]]
+    sha256 = "bd8937099544bb9e0459ee945ba5c9b97e9a79425cd7bf8a593aa8ecc883a558"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce20513443823b9833553fd7655b1762ef596dd8"
+libc = "glibc"
+os = "linux"
+
+    [[Catalyst.download]]
+    sha256 = "23ebaf29fca26a2718994db5225f343de39c9cfc302e3732aa1bbec92794b490"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81b2b51fa557ec03b182dbcbe1a8bdb0e99d4a53"
+libc = "musl"
+os = "linux"
+
+    [[Catalyst.download]]
+    sha256 = "2d0c2218da2c760c561daa1327722cdabfd26c4efceee6f4415a3b94822b40b2"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a932e30665eb52c9b4aecbc855482cacbfc29ae"
+libc = "musl"
+os = "linux"
+
+    [[Catalyst.download]]
+    sha256 = "001a1c8639d2367fc896e319190a8a7b22fea3219ab058ebf1396fee02421c7b"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f9d7e18d10de0541e03498e35e9a5a59d26d2dd"
+os = "windows"
+
+    [[Catalyst.download]]
+    sha256 = "008483c76f9ec40c6c4fa67111e3b861aab3609d077a2a7f54f7ea946985ec8a"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Catalyst]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2272ba1cff5356ef3685236893447be4f55743ef"
+os = "windows"
+
+    [[Catalyst.download]]
+    sha256 = "904c83946c07fba48925262134e96a5854d17974e2ae67b843246720d68efe2c"
+    url = "https://github.com/JuliaBinaryWrappers/Catalyst_jll.jl/releases/download/Catalyst-v0.1.0+0/Catalyst.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
